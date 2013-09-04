@@ -1,4 +1,4 @@
-WordPress WP_Query Shortcode Wrapper
+WP_Query Shortcode Wrapper
 =====
 
 I got tired of constantly writing custom shortcodes to implement WP_Query queries in WordPress page content.
